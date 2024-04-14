@@ -1,2 +1,1 @@
-import requests
-print(requests.get('https://google.com').text)
+b'gAAAAABmG4muoyUjA4ciD4NyJjEq3ggG19KQRg27IdKH_rsUVVQHfQ_CDkvqu1zjwoi15V4jZ8DKqG3s7PjjTMBweAGuMqZFwrs86c5vj_CvgfRdP2MFRHEt3dge56DkTPV4H8nP6XTMHOqd8AL0RcJCs7GKk5wJIg=='
